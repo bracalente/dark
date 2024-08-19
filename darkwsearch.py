@@ -1,3 +1,4 @@
+import os
 from telethon import TelegramClient, events
 
 # Substitua com seus próprios valores de API
