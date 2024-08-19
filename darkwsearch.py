@@ -2,8 +2,8 @@ import os
 from telethon import TelegramClient, events
 
 # Substitua com seus próprios valores de API
-api_id = ''
-api_hash = ''
+api_id = 'API_ID'
+api_hash = 'API_HASH'
 grupo_nome = 'Venari_By_BetterCyber'
 
 # Inicializando o cliente Telegram
